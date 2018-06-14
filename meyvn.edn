@@ -12,4 +12,5 @@
    {:id "clojars"
     :url "https://clojars.org/repo"}}},
  :cljs
- {:enabled false}}
+ {:enabled false}
+ :scm {:enabled true}}
