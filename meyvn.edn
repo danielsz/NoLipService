@@ -1,7 +1,7 @@
 {:pom
  {:group-id "org.danielsz",
   :artifact-id "nolipservice",
-  :version "1.0.2-SNAPSHOT",
+  :version "1.0.3",
   :name "Open Source Software, not a lip service"},
  :packaging
  {:uberjar
